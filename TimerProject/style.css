@@ -1,0 +1,65 @@
+*{
+    font-family: cursive;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(19, 17, 17)
+}
+
+h1{
+    color: cyan;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px cyan;
+}
+
+table{
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+th{
+    color: cyan;
+}
+
+input{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10x;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(236, 236, 223);
+}
+
+button{
+    width: 100px;
+    margin: 20px 10px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: beige;
+    border: none;
+    border-radius: 15px;
+}
+
+.countdown{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.heading{
+    color: white;
+    font-size: 20px;
+    /* margin: 20px; */
+    color: cyan;
+}
+
+.time{
+    background-color: black;
+    font-size: 100px;
+    width: 150px;
+    margin: 0 10px;
+    color: beige;
+}

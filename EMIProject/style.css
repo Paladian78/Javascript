@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+
+p{
+    margin: 0px;
+}
+
+button{
+    background-color: brown;
+    width: 50%;
+    padding: 5px;
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 15px;
+    color: azure;
+}
+
+.box{
+    text-align: center;
+    font-family: cursive;
+    margin-top: 50px;
+    box-shadow: 0px 0px 40px black;
+    padding: 25px;
+    background-color: whitesmoke;
+    color: brown;
+    width: 600px;
+    height: fit-content;
+}
+
+.wrapper{
+    display: flex;
+    /* margin: 10px;
+    padding: 10px; */
+}
+
+.wrapp{
+    margin: 5px;
+    padding: 10px;
+    font-size: 19px;
+    background-color: beige;
+}
+
+input{
+    width: 90%;
+    /* padding: 5px; */
+}
+

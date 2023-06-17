@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+.outer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    display: flex;
+    font-family: cursive;
+}
+.content {
+    background-color: dimgray;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 100px;
+    width: 140px;
+    margin: 0 10px;
+}
+.heading {
+    color: azure;
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+}
